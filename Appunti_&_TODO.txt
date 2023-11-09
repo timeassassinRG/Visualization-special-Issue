@@ -1,0 +1,28 @@
+Visualizatio special Issue
+Appunti 02/11/2023 
+
+-Ledoux was not using meters, but the unit before french revolution (toise) , that are double size of meter
+-Important to set a scale before doing evreything
+-on the paviment they are like decoration
+- https://en.wikipedia.org/wiki/Toise#:~:text=1%20toise%20was%20about%203.799,France%20before%2010%20December%201799
+
+-focus on:
+	-goal i want to achieve
+	-Material
+	-Light (black and white to highlight)
+
+
+Appunti 9/11/2023
+
+- AI atmosphere , and different point of view
+- LookX.AI 
+- Comprasion Unity vs AI
+- Composition Rules (USE THIS TO CREATE THE 3D Model)
+	- Fill the frame
+	- Rule of Thirds
+	- Symetry
+	- Leading Lines (prospective)
+	- Horizion Line
+	- Diagonal Lines
+	- Colors
+- Blender
